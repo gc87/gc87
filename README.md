@@ -1,7 +1,8 @@
 ## About me
 
-- 我使用C、C++、C#和Python编写程序
-- 我目前工作所涉及的领域主要包括嵌入式、物联网和区块链
-- 我在学习并尝试在个人项目中使用Clojure
+- 我使用c、c++、c#和python编写程序
+- 我工作所涉及的领域包括嵌入式、物联网和区块链
+- 我在尝试在个人项目中使用clojure
 - 我持续关注的机器学习和前端技术
+- 我的文档列表——[Archive](https://github.com/gc87/archive/blob/master/README.md#archive)
 
